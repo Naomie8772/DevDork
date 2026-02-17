@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Rosé & Crumb Bakery",
+  "description": "A premium pink-themed bakery experience with AI-powered dessert consultations and a seamless ordering system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
